@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Wakanda",
+		"leaderName": "T'Challa",
+		"adjective": ["Wakandan"],
+		"startBias": ["Jungle"],
+        "preferredVictoryType": "Scientific",
+        
+        "startIntroPart1": "TBA.",
+		"startIntroPart2": "TBA",
+
+		"declaringWar": "Wakanda forever!",
+		"attacked": "It is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.",
+		"defeated": "It is over for us. What happens now determines what happens to the rest of the world.",
+		"afterPeace": "Our weapons will not be used to wage war on the world. It is not our way to be judge, jury, and executioner for people who are not our own.",
+
+		"introduction": "Greetings from Wakanda. I am T'Challa, king of Africa's greatest people.",		
+		"neutralHello": "Molo unjani (Hello, how are you?)",
+		"hateHello": "What do YOU want?",		
+		"tradeRequest": "We all know the truth: more connects us than separates us. But in times of crisis the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",
+
+		"outerColor": [10,17,10],
+		"innerColor": [145,88,228],
+		"uniqueName": "Secrets of the Sacred Mound",
+		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
+			"Starts with [Mining]"],
+		"uniqueText": "Starts with Mining. All units gain the Wakanda Forever promotion. Unlock new uniques by building upon the Sacred Mound in the capital city",
+		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka","Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+		"name": "Vibranium",
+		"gold": 1,
+		"resourceType": "Luxury"
+	},
+	{
+		"name": "Refined Vibranium",
+		"production": 1,
+		"resourceType": "Bonus"
+	},
+	{
+		"name": "Heart-Shaped Herb",
+		"production": 1,
+		"resourceType": "Luxury"
+	}
+]

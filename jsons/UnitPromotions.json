@@ -1,0 +1,41 @@
+[
+    {
+		"name": "Vibranium Armor",
+		"uniques": ["+[5]% Combat Strength",
+			"+[10]% Strength when defending",
+			"+25% Defence against ranged attacks"]
+	},
+	{
+		"name": "Wakanda Forever",
+		"uniques": ["[25]% Bonus XP gain",
+			"[Great General] is earned [25]% faster",
+			"Can move immediately once bought",
+			"Bonus vs Barbarian 15%",
+			"Uncapturable"]
+	},
+	{
+		"name": "Heart-Shaped Herb",
+		"uniques": ["+1 Movement",
+			"+10 HP when healing"]
+	},
+	{
+		"name": "Antarctic Vibranium",
+		"uniques": ["+[5]% Strength when attacking",
+			"No movement cost to pillage",
+			"Bonus vs Armor 10%"]
+	},
+	{
+		"name": "Panther Eyes I",
+		"uniques": ["Can attack submarines",
+			"+1 Visibility Range"]
+	},
+	{
+		"name": "Panther Eyes II",
+		"uniques": ["Can attack submarines",
+			"6 tiles in every direction always visible"]
+	},
+	{
+		"name": "Rhino Stomp",
+		"uniques": ["-10% combat strength for adjacent enemy units"]
+	}
+]
