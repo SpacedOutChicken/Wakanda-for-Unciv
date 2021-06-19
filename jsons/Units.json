@@ -22,7 +22,7 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"uniques": ["+[33]% combat bonus in [Forest]", "+[33]% combat bonus in [Jungle]"],
+		"uniques": ["+[33]% Strength in [Forest]", "+[33]% Strength in [Jungle]"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -54,7 +54,7 @@
 		"strength": 18,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["Bonus vs Mounted 50%"],
+		"uniques": ["+[50]% Strength vs [Mounted]"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
@@ -85,7 +85,7 @@
 		"cost": 500,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["Bonus vs Armor 50%",
+		"uniques": ["+[50]% Strength vs [Armor]",
 			"[40]% chance to intercept air attacks",
 			"No defensive terrain bonus",
 			"Can move after attacking",
