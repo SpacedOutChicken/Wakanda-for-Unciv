@@ -92,8 +92,7 @@
 			"All tiles cost 1 movement",
 			"Can pass through impassable tiles",
 			"May withdraw before melee ([50]%)",
-			"Can carry 2 aircraft",
-			"Can carry 1 extra air unit"],
+			"Can carry [3] [Air] units"],
 		"attackSound": "shot"
 	},
     {
