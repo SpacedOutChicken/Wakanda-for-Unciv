@@ -16,18 +16,18 @@
 	{
 		"name": "Heart-Shaped Herb",
 		"uniques": ["+1 Movement",
-			"+10 HP when healing"]
+			"+[10] HP when healing"]
 	},
 	{
 		"name": "Antarctic Vibranium",
 		"uniques": ["+[5]% Strength when attacking",
 			"No movement cost to pillage",
-			"Bonus vs Armor 10%"]
+			"+[10]% Strength vs [Armor]"]
 	},
 	{
 		"name": "Panther Eyes I",
 		"uniques": ["Can attack submarines",
-			"+1 Visibility Range"]
+			"[+1] Visibility Range"]
 	},
 	{
 		"name": "Panther Eyes II",
@@ -36,6 +36,6 @@
 	},
 	{
 		"name": "Rhino Stomp",
-		"uniques": ["-10% combat strength for adjacent enemy units"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
 	}
 ]
