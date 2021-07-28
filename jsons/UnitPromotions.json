@@ -3,7 +3,7 @@
 		"name": "Vibranium Armor",
 		"uniques": ["+[5]% Combat Strength",
 			"+[10]% Strength when defending",
-			"+25% Defence against ranged attacks"]
+			"[+33]% Strength when defending vs [Ranged] units"]
 	},
 	{
 		"name": "Wakanda Forever",
@@ -15,8 +15,8 @@
 	},
 	{
 		"name": "Heart-Shaped Herb",
-		"uniques": ["+1 Movement",
-			"+[10] HP when healing"]
+		"uniques": ["[+1] Movement",
+			"[+10] HP when healing"]
 	},
 	{
 		"name": "Antarctic Vibranium",
