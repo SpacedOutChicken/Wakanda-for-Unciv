@@ -1,16 +1,16 @@
 [
     {
 		"name": "Vibranium Armor",
-		"uniques": ["+[5]% Combat Strength",
-			"+[10]% Strength when defending",
-			"[+33]% Strength when defending vs [Ranged] units"]
+		"uniques": ["[+5]% Strength",
+			"[+10]% Strength <when defending>",
+			"[+33]% Strength <vs [Ranged] units> <when defending>"]
 	},
 	{
 		"name": "Wakanda Forever",
 		"uniques": ["[25]% Bonus XP gain",
 			"[Great General] is earned [25]% faster",
 			"Can move immediately once bought",
-			"+[15]% Strength vs [Barbarians]",
+			"[+15]% Strength <vs [Barbarian] units>",
 			"Uncapturable"]
 	},
 	{
@@ -20,18 +20,18 @@
 	},
 	{
 		"name": "Antarctic Vibranium",
-		"uniques": ["+[5]% Strength when attacking",
+		"uniques": ["[+5]% Strength <when attacking>",
 			"No movement cost to pillage",
-			"+[10]% Strength vs [Armor]"]
+			"[+10]% Strength <vs [Armored] units>"]
 	},
 	{
 		"name": "Panther Eyes I",
-		"uniques": ["Can attack submarines",
-			"[+1] Visibility Range"]
+		"uniques": ["Can see invisible [All] units",
+			"[+1] Sight"]
 	},
 	{
 		"name": "Panther Eyes II",
-		"uniques": ["Can attack submarines",
+		"uniques": ["Can see invisible [All] units",
 			"6 tiles in every direction always visible"]
 	},
 	{

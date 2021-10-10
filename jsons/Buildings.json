@@ -10,7 +10,7 @@
         "production": 1,
         "cityStrength": 1,
 		"cityHealth": 10,
-        "uniques": ["+[10]% great person generation [in this city]",
+        "uniques": ["[+10]% great person generation [in this city]",
             "Unsellable",
             "Not displayed as an available construction without [Refined Vibranium]"]
     },
@@ -49,7 +49,7 @@
         "isWonder": "true",
         "cost": 160,
         "uniques": ["Each city founded increases culture cost of policies [15]% less than normal",
-            "Unhappiness from population decreased by [15]%",
+            "[-15]% unhappiness from population [in all cities]",
             "[+1 Culture, +1 Science, +1 Happiness] from each Trade Route",
             "Not displayed as an available construction without [Sacred Mound]",
             "Will not be displayed in Civilopedia"],
@@ -77,8 +77,8 @@
         "uniques": ["Gold cost of upgrading [Military] units reduced by [33]%",
             "Maintenance on roads & railroads reduced by [25]%",
             "-[25]% Gold cost of acquiring tiles [in all cities]",
-            "-[15]% [All] unit maintenance costs",
-            "Cost of purchasing items in cities reduced by [25]%",
+            "[-15]% maintenance costs for [All] units",
+            "[Gold] cost of purchasing items in cities [-25]%",
             "Not displayed as an available construction without [Sacred Mound]",
             "Will not be displayed in Civilopedia"],
             "quote": "'Just as money has been in the past the instrument of men's selfishness, now it must be the instrument of their goodwill.' - Alice Bailey"

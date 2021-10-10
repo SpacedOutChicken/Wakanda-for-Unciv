@@ -22,7 +22,8 @@
 		"strength": 8,
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
-		"uniques": ["+[33]% Strength in [Forest]", "+[33]% Strength in [Jungle]"],
+		"uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
+			"[+33]% Strength <when fighting in [Jungle] tiles>"],
 		"promotions": ["Woodsman"],
 		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
@@ -54,7 +55,7 @@
 		"strength": 18,
 		"cost": 45,
 		"requiredTech": "Civil Service",
-		"uniques": ["+[50]% Strength vs [Mounted]"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
@@ -68,10 +69,10 @@
 		"requiredTech": "Scientific Theory",
 		"uniques": ["Ignores terrain cost",
 			"Can pass through impassable tiles",
-			"Invisible to others",
-			"Can attack submarines",
-			"+1 Visibility Range",
-			"May withdraw before melee ([150]%)"]
+			"Invisible to non-adjacent units",
+			"Can see invisible [Land] units",
+			"[+1] Sight",
+			"May withdraw before melee ([100]%)"]
 	},
 	{
 		"name": "Helicarrier",
@@ -92,7 +93,7 @@
 			"All tiles cost 1 movement",
 			"Can pass through impassable tiles",
 			"May withdraw before melee ([50]%)",
-			"Can carry [3] [Air] units"],
+			"Can carry [3] [Aircraft] units"],
 		"attackSound": "machinegun"
 	},
     {
@@ -105,7 +106,8 @@
 			"Can construct [Citadel]",
 			"Can hurry technology research",
 			"Great Person - [War]",
-			"Unbuildable"],
+			"Unbuildable",
+			"Uncapturable"],
 		"movement": 4
 	}
 ]
