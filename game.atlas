@@ -1,201 +1,166 @@
 
 game.png
-size: 2048, 256
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Energy Barrier
   rotate: false
-  xy: 112, 40
+  xy: 220, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Panther God Shrine
+  rotate: false
+  xy: 544, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sacred Mound
   rotate: false
-  xy: 436, 40
+  xy: 760, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secret of Antarctic Vibranium
   rotate: false
-  xy: 544, 148
+  xy: 868, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secret of Enlightened Culture
   rotate: false
-  xy: 544, 40
+  xy: 976, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secret of Monetary Theory
   rotate: false
-  xy: 652, 148
+  xy: 1084, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secret of Panther Vision
   rotate: false
-  xy: 652, 40
+  xy: 1192, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Wakanda
+BuildingIcons/Secret of Vibranium Alloys
   rotate: false
-  xy: 760, 153
-  size: 100, 95
-  orig: 100, 95
-  offset: 0, 0
-  index: -1
-ResourceIcons/Heart-Shaped Herb
-  rotate: false
-  xy: 220, 148
+  xy: 1300, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Secret of the Heart-Shaped Herb
+BuildingIcons/Secret of Vibranium Power
   rotate: false
-  xy: 220, 148
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Refined Vibranium
-  rotate: false
-  xy: 436, 148
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Vibranium Seed
-  rotate: false
-  xy: 436, 148
+  xy: 1408, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Vibranium
   rotate: false
-  xy: 436, 148
+  xy: 1408, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Secret of the Heart-Shaped Herb
+  rotate: false
+  xy: 1516, 12
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Wakanda
+  rotate: false
+  xy: 1624, 17
+  size: 100, 95
+  orig: 100, 95
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Black Panther
   rotate: false
-  xy: 4, 4
+  xy: 2006, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infiltrator
   rotate: false
-  xy: 868, 54
+  xy: 2006, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-UnitIcons/Armored Rhino
-  rotate: false
-  xy: 4, 148
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 UnitIcons/Black Panther
   rotate: false
-  xy: 4, 40
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dora Milaje
   rotate: false
-  xy: 112, 148
+  xy: 112, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Helicarrier
   rotate: false
-  xy: 220, 40
+  xy: 328, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Infiltrator
   rotate: false
-  xy: 328, 148
+  xy: 436, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Panther Scout
   rotate: false
-  xy: 328, 40
+  xy: 652, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/War Rhino
   rotate: false
-  xy: 760, 45
+  xy: 1732, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/White Gorilla
   rotate: false
-  xy: 868, 148
+  xy: 1840, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Antarctic Vibranium
-  rotate: false
-  xy: 868, 90
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Heart-Shaped Herb
-  rotate: false
-  xy: 976, 198
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 UnitPromotionIcons/Panther Eyes
   rotate: false
-  xy: 1034, 198
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Rhino Stomp
-  rotate: false
-  xy: 1092, 198
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Vibranium Armor
-  rotate: false
-  xy: 1150, 198
+  xy: 1948, 62
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Wakanda Forever
   rotate: false
-  xy: 1208, 198
+  xy: 1948, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

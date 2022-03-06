@@ -7,35 +7,12 @@
 	},
 	{
 		"name": "Wakanda Forever",
-		"uniques": ["[25]% Bonus XP gain",
-			"[Great General] is earned [25]% faster",
-			"Can move immediately once bought",
+		"uniques": ["Can move immediately once bought",
 			"[+15]% Strength <vs [Barbarian] units>",
 			"Uncapturable"]
 	},
 	{
-		"name": "Heart-Shaped Herb",
-		"uniques": ["[+1] Movement",
-			"[+10] HP when healing"]
-	},
-	{
-		"name": "Antarctic Vibranium",
-		"uniques": ["[+5]% Strength <when attacking>",
-			"No movement cost to pillage",
-			"[+10]% Strength <vs [Armored] units>"]
-	},
-	{
-		"name": "Panther Eyes I",
-		"uniques": ["Can see invisible [All] units",
-			"[+1] Sight"]
-	},
-	{
-		"name": "Panther Eyes II",
-		"uniques": ["Can see invisible [All] units",
-			"6 tiles in every direction always visible"]
-	},
-	{
-		"name": "Rhino Stomp",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"]
+		"name": "Panther Eyes",
+		"uniques": ["Can see invisible [All] units"]
 	}
 ]

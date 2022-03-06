@@ -9,8 +9,7 @@
 		"upgradesTo": "Infiltrator",
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Ignores terrain cost",
-			"Can pass through impassable tiles"],
+		"uniques": ["Ignores terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -42,9 +41,9 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Metallurgy",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain penalty"],
-		"promotions": ["Rhino Stomp"],
-		"attackSound": "horse"		
+			"No defensive terrain penalty",
+			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles"],
+		"attackSound": "elephant"		
 	},
 	{
 		"name": "Dora Milaje",
@@ -63,16 +62,18 @@
 	{
 		"name": "Infiltrator",
 		"uniqueTo": "Wakanda",
-		"unitType": "Civilian",
-		"movement": 3,
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 10,
 		"cost": 200,
 		"requiredTech": "Scientific Theory",
 		"uniques": ["Ignores terrain cost",
-			"Can pass through impassable tiles",
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
+			"May enter foreign tiles without open borders",
 			"[+1] Sight",
-			"May withdraw before melee ([100]%)"]
+			"May withdraw before melee ([50]%)"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Helicarrier",
@@ -98,16 +99,26 @@
 	},
     {
 		"name": "Black Panther",
-		"unitType": "Civilian",
+		"unitType": "Sword",
 		"uniqueTo": "Wakanda",
-		"replaces": "Great General",
-		"uniques": ["Can start an [8]-turn golden age",
-			"Bonus for units in 2 tile radius 15%",
-			"Can construct [Citadel]",
-			"Can hurry technology research",
-			"Great Person - [War]",
-			"Unbuildable",
-			"Uncapturable"],
-		"movement": 4
+		"movement": 2,
+		"strength": 20,
+		"cost": 40,
+		"uniques": ["Bonus for units in 2 tile radius 15%",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [1] per Civilization",
+			"[+50]% XP gained from combat",
+			"Heals [25] damage if it kills a unit",
+			"[+50]% Strength <during the [Classical era]>",
+			"[+100]% Strength <during the [Medieval era]>",
+			"[+150]% Strength <during the [Renaissance era]>",
+			"[+200]% Strength <during the [Industrial era]>",
+			"[+250]% Strength <during the [Modern era]>",
+			"[+300]% Strength <during the [Atomic era]>",
+			"[+350]% Strength <during the [Information era]>",
+			"[+400]% Strength <during the [Future era]>",
+			"[+1] Movement <starting from the [Information era]>"],
+		"attackSound": "metalhit"
 	}
 ]
