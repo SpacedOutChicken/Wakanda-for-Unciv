@@ -104,7 +104,7 @@
 		"movement": 2,
 		"strength": 20,
 		"cost": 40,
-		"uniques": ["Bonus for units in 2 tile radius 15%",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",

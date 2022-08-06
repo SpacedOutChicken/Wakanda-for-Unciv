@@ -62,7 +62,7 @@
         "science": 1,
         "cost": 160,
         "uniques": ["Each city founded increases culture cost of policies [10]% less than normal",
-            "[-10]% unhappiness from population [in all cities]",
+            "[-10]% Unhappiness from [Population] [in all cities]",
             "[+1 Culture, +1 Science, +1 Happiness] from each Trade Route",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
