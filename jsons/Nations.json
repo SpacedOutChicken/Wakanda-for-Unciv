@@ -5,6 +5,7 @@
 		"adjective": ["Wakandan"],
 		"startBias": ["Jungle"],
         "preferredVictoryType": "Scientific",
+		"favoredReligion": "Orisha",
         
         "startIntroPart1": "10,000 years ago, Wakanda was home to a collection of primitive human tribes. It was during this time a massive meteorite made of a sound and energy absorbing mineral, which would later be known as vibranium crashed to Earth. One of the tribes, led by Bashenga, its mightiest warrior, decided to investigate, believing this to be a gift from the gods. Bashenga prayed to the Panther God to give him the strength to defeat these demons, becoming the first Black Panther and uniting the tribes to form the nation of Wakanda. His lineage would later rule the country for centuries. Now you, T'Challa, are the latest to sit upon his throne.",
 		"startIntroPart2": "For centuries Wakanda has remained in isolation. Now, they are considered the most technologically advanced nation of the planet. Can you uphold their mighty legacy, king T'Challa? Can you build a civilization that will stand the test of time?",
@@ -25,6 +26,8 @@
 		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
 			"Starts with [Mining]",
 			"Unlock more secrets by building upon the Sacred Mound"],
-		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka","Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"]
+		"cities": ["Birnin Zana","Birnin Kashin","Birnin S'Yan","Birnin Azzaria","Birnin Bashenga","Adowa","Birnin Djata","Birnin T'Chaka",
+			"Black Warrior Creek","Jabari Village","Birnin Mutata","Golden Volcano","Birnin Benhazin","Birnin Tsauni","N'Jadaka Village","Obodo Makeda"],
+		"spyNames": ["White Wolf", "Hunter", "Bucky Barnes", "Shuri", "Refaat", "Ahmadou", "Mulu Ken", "Heba", "Ayub", "Wendimu"]
     }
 ]
