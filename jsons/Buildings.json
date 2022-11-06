@@ -124,7 +124,7 @@
         "cost": 300,
         "science": 1,
         "uniques": ["[All] units gain the [Panther Eyes] promotion",
-            "[+1] Sight <for [non-air] units>",
+            "[+1] Sight <for [All] units>",
             "Normal vision when embarked <for [All] units>",
             "Reveals the entire map",
             "Only available <if [Sacred Mound] is constructed>",

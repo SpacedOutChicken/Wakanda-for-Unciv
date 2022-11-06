@@ -1,10 +1,4 @@
 [
-    {
-		"name": "Vibranium Armor",
-		"uniques": ["[+5]% Strength",
-			"[+10]% Strength <when defending>",
-			"[+33]% Strength <vs [Ranged] units> <when defending>"]
-	},
 	{
 		"name": "Wakanda Forever",
 		"uniques": ["Can move immediately once bought",
