@@ -29,11 +29,10 @@
         "uniqueTo": "Wakanda",
         "isWonder": "true",
         "requiredTech": "Agriculture",
-        "cost": 1,
+        "cost": 600,
         "science": 1,
         "uniques": ["Provides [1] [Vibranium]",
-            "[+1 Culture, +1 Science, +1 Happiness, +1 Faith, +1 Gold, +1 Food, +1 Production] [in all cities]",
-            "Free [Black Panther] appears",
+            "[+2 Culture, +2 Science, +2 Happiness, +2 Faith, +2 Gold, +2 Food, +2 Production] [in all cities]",
             "Gain a free [Monument] [in this city]",
             "Will not be displayed in Civilopedia"],
         "quote": "'I have seen gods fly. I have seen men build weapons that I couldn't even imagine. I have seen aliens drop from the sky. But I have never seen anything like this.' - Everett K. Ross"
