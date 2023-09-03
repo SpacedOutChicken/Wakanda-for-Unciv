@@ -125,7 +125,7 @@
         "science": 1,
         "uniques": ["[All] units gain the [Panther Eyes] promotion",
             "[+1] Sight <for [All] units>",
-            "Normal vision when embarked <for [All] units>",
+            "[+1] Sight <for [Embarked] units>",
             "Reveals the entire map",
             "Only available <if [Sacred Mound] is constructed>",
             "Will not be displayed in Civilopedia"],
