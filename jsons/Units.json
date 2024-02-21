@@ -120,9 +120,11 @@
 			"[+350]% Strength <during the [Information era]>",
 			"[+400]% Strength <during the [Future era]>",
 			"[+1] Movement <starting from the [Information era]>",
+			"Cost increases by [30] when built",
+			"Gain [-50] [Science] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
 			"Gain [-100] [Gold] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -100 Gold] upon being defeated]"
+			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
 		"attackSound": "metalhit"
 	}

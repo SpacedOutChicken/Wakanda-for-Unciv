@@ -8,7 +8,7 @@
 		"favoredReligion": "Orisha",
         
         "startIntroPart1": "10,000 years ago, Wakanda was home to a collection of primitive human tribes. It was during this time a massive meteorite made of a sound and energy absorbing mineral, which would later be known as vibranium crashed to Earth. One of the tribes, led by Bashenga, its mightiest warrior, decided to investigate, believing this to be a gift from the gods. Bashenga prayed to the Panther God to give him the strength to defeat these demons, becoming the first Black Panther and uniting the tribes to form the nation of Wakanda. His lineage would later rule the country for centuries. Now you, T'Challa, are the latest to sit upon his throne.",
-		"startIntroPart2": "For centuries Wakanda has remained in isolation. Now, they are considered the most technologically advanced nation of the planet. Can you uphold their mighty legacy, king T'Challa? Can you build a civilization that will stand the test of time?",
+		"startIntroPart2": "For centuries Wakanda has remained in isolation. Now, they are considered the most technologically advanced nation of the planet. Can you uphold their mighty legacy, king T'Challa? Will your new empire shine through the ages of history?",
 
 		"declaringWar": "Wakanda forever!",
 		"attacked": "It is my responsibility to make sure our people are safe and that vibranium does not fall into the hands of a person like you.",
@@ -20,8 +20,8 @@
 		"hateHello": "What do YOU want?",		
 		"tradeRequest": "We all know the truth: more connects us than separates us. But in times of crisis the wise build bridges, while the foolish build barriers. We must find a way to look after one another, as if we were one single tribe.",
 
-		"outerColor": [10,17,10],
-		"innerColor": [145,88,228],
+		"outerColor": [135,78,218],
+		"innerColor": [10,17,10],
 		"uniqueName": "Secrets of the Sacred Mound",
 		"uniques": ["[All] units gain the [Wakanda Forever] promotion",
 			"Starts with [Mining]",
