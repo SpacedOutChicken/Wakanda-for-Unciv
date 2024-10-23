@@ -8,7 +8,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Hidden when religion is disabled",
+		"uniques": ["Only available <when religion is enabled>",
             "[+1 Science, +1 Faith] [in this city] <with [Vibranium]>"]
     },
     {

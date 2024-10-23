@@ -72,7 +72,7 @@
 			"Can see invisible [Land] units",
 			"May enter foreign tiles without open borders",
 			"[+1] Sight",
-			"May withdraw before melee ([50]%)"],
+			"Withdraws before melee combat <with [50]% chance>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -92,7 +92,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Ignores Zone of Control",
 			"Can carry [3] [Aircraft] units"],
 		"attackSound": "machinegun"
@@ -122,9 +122,9 @@
 			"[+1] Movement <starting from the [Information era]>",
 			"Cost increases by [30] when built",
 			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
-			"Gain [-50] [Science] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Gain [-50] [Culture] (modified by game speed) <upon being defeated> <hidden from users>",
-			"Gain [-100] [Gold] (modified by game speed) <upon being defeated> <hidden from users>",
+			"Gain [-50] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-50] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
 		"promotions": ["Panther Eyes"],
