@@ -1,0 +1,35 @@
+[
+	{
+		"name": "T'Challa",
+		"preferredVictoryType": "Scientific",
+
+      "culture": 7,
+      "faith": 4,
+      "food": 6,
+      "gold": 5,
+      "happiness": 6,
+      "production": 8,
+      "science": 10,
+
+      "military": 2,
+      "aggressive": 1,
+      "declareWar": 1,
+      "commerce": 2,
+      "diplomacy": 4,
+      "loyal": 8,
+      "expansion": 0,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 2,
+          "Honor": 1,
+          "Commerce": 4,
+          "Patronage": 2,
+          "Piety": 2,
+          "Rationalism": 8,
+          "Freedom": 10,
+          "Autocracy": 1,
+          "Order": 4
+      },
+  }
+]
